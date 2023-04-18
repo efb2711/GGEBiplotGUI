@@ -10,3 +10,5 @@ Depends: R (>= 3.2.2), rgl (>= 0.95.1441), tcltk (>= 3.2.2), tkrplot
         (>= 0.0-23)
 SystemRequirements: BWidget
 License: GPL (>= 2)
+URL: https://github.com/efb2711/GGEBiplotGUI
+BugReports: https://github.com/efb2711/GGEBiplotGUI/issues
